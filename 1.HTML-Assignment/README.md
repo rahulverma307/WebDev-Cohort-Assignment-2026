@@ -32,6 +32,10 @@ The project focuses on:
 ## 📌 Status
 ✅ Completed
 
+# Input ScreenShot
+
+![screenshot](./input%20Screenshot.png)
+
 # Output ScreenShot
 ### ScreenShot 1
 ![screenshot](./Output%20screenshot-1.png)
